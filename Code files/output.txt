@@ -1,0 +1,7 @@
+
+Simple Mean end to end delay for 30000 customers 1.8998650296843644
+95th percentile without using batch means :4.035704926960534
+Tmean(mean of batches 95 percentiles): 4.077104386311862
+error Percentage of Tmean: 13.032748249035677
+Upper limit of confidence interval: 4.207431868802218
+lower limit of confidence interval: 3.946776903821505
